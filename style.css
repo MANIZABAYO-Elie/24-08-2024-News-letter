@@ -11,9 +11,8 @@ body{
     background-color:  hsl(234, 29%, 20%);
     font-family: "Roboto", sans-serif;
     font-size: 16px;
-    
-
 }
+
 .container{
     display: flex;
     justify-content: center;  /* Centers horizontally */
@@ -50,34 +49,34 @@ h1{
     font-size: 55px;
     word-spacing: 15px;
     padding-bottom: 10px;
-    
 }
-.illustration{
+
+#illustration-image{
      height: 500px;
 }
+
 .icon-list{
     margin-right: 10px;
 }
+
 .mothly-subscription{
     
     text-align: start;
     padding-bottom: 40px;
-
 }
+
 p{
     padding-top: 20px;
 }
-span{
 
-}
 input,.subscribe-button{
     width: 100%;
     border-radius: 10px;
     height: 45px;
     border: 1px solid hsl(231, 7%, 60%);
     margin-top: 5px;
-
 }
+
  input::placeholder{
     padding-left: 40px;
 }
@@ -87,8 +86,4 @@ input,.subscribe-button{
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     background-color:hsl(234, 29%, 20%);
-    
- 
- 
-
 }
